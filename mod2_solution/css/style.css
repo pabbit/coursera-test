@@ -18,8 +18,6 @@ p {
 }
 
 .container {
-	/*position: absolute;*/
-	width: 400px;
 	border: 1px solid black;
 	background-color: #BEBEBE;
 	margin: 10px;
