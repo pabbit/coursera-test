@@ -1,0 +1,73 @@
+body {
+	font-family: "Oxygen", sans-serif;
+}
+
+/** Header **/
+#header-nav {
+	background-color: #fffacd;
+}
+
+#nav-list {
+	background-color: #f0f8ff;
+	text-align: center;
+}
+
+.navbar-brand h1 { /* company name */
+	color: #000;
+	margin-top: 0;
+	font-size: 1.2em;
+	text-transform: uppercase;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #87cefa
+}
+
+#nav-list li {
+	border-bottom: 1px solid #87cefa;
+	font-size: 1.2em;
+	padding: 5px 0px;
+}
+
+.navbar-nav {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+/** End Header **/
+
+h2 {
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+
+.menu-title {
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+.menu-container {
+	background-color: #dcdcdc;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+	
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+	
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+	
+}
